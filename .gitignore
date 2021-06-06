@@ -132,3 +132,5 @@ data/
 *.txt
 *.zip
 *.m
+
+.DS_Store
