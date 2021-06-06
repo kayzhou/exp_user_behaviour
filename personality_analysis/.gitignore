@@ -1,0 +1,11 @@
+data/
+model/
+features_doc/
+.idea/
+figure/
+test.py
+*.txt
+*.pyc
+POI_data/
+__pycache__/
+.DS_Store
